@@ -1,6 +1,6 @@
-# 📊 Superstore Sales Dashboard | Looker Studio
+# Superstore Sales Dashboard | Looker Studio
 
-## 📌 Project Overview
+## Project Overview
 
 This project presents an interactive business intelligence dashboard built using **Google Looker Studio**. The dashboard analyzes Superstore sales data to provide insights into sales performance, customer behavior, product profitability, and regional shipping trends.
 
@@ -8,7 +8,7 @@ The objective of this project is to transform raw sales data into meaningful bus
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Google Looker Studio
 - Google Sheets
@@ -16,7 +16,7 @@ The objective of this project is to transform raw sales data into meaningful bus
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 Dataset Source:
 Superstore Dataset (Kaggle)
@@ -37,7 +37,7 @@ The dataset contains information such as:
 
 # Dashboard Pages
 
-## 📈 Dashboard 1 – Executive Overview
+## Dashboard 1 – Executive Overview
 
 Provides a high-level summary of business performance.
 
@@ -58,7 +58,7 @@ Provides a high-level summary of business performance.
 
 ---
 
-## 👥 Dashboard 2 – Sales & Customer Analysis
+## Dashboard 2 – Sales & Customer Analysis
 
 Focuses on customer purchasing behavior and sales distribution.
 
@@ -73,7 +73,7 @@ Focuses on customer purchasing behavior and sales distribution.
 
 ---
 
-## 📦 Dashboard 3 – Product & Profit Analysis
+## Dashboard 3 – Product & Profit Analysis
 
 Analyzes product performance and profitability.
 
@@ -87,7 +87,7 @@ Analyzes product performance and profitability.
 
 ---
 
-## 🚚 Dashboard 4 – Shipping & Regional Performance
+## Dashboard 4 – Shipping & Regional Performance
 
 Provides operational insights related to shipping and regional sales.
 
@@ -154,7 +154,8 @@ This dashboard helps business stakeholders:
 - Operational Analytics
 - Looker Studio Development
 
----
+# Looker Studio Report link 
+https://datastudio.google.com/s/p4g4arLeuc8
 
 
 ## 👩‍💻 Author
